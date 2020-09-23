@@ -1,0 +1,13 @@
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\Challenge_3\obj\Debug\netcoreapp3.1\Challenge_3.csprojAssemblyReference.cache
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\Challenge_3\obj\Debug\netcoreapp3.1\Challenge_3.AssemblyInfoInputs.cache
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\Challenge_3\obj\Debug\netcoreapp3.1\Challenge_3.AssemblyInfo.cs
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\Challenge_3\obj\Debug\netcoreapp3.1\Challenge_3.csproj.CoreCompileInputs.cache
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\Challenge_3\bin\Debug\netcoreapp3.1\Challenge_3.exe
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\Challenge_3\bin\Debug\netcoreapp3.1\Challenge_3.deps.json
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\Challenge_3\bin\Debug\netcoreapp3.1\Challenge_3.runtimeconfig.json
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\Challenge_3\bin\Debug\netcoreapp3.1\Challenge_3.runtimeconfig.dev.json
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\Challenge_3\bin\Debug\netcoreapp3.1\Challenge_3.dll
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\Challenge_3\bin\Debug\netcoreapp3.1\Challenge_3.pdb
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\Challenge_3\obj\Debug\netcoreapp3.1\Challenge_3.dll
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\Challenge_3\obj\Debug\netcoreapp3.1\Challenge_3.pdb
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\Challenge_3\obj\Debug\netcoreapp3.1\Challenge_3.genruntimeconfig.cache

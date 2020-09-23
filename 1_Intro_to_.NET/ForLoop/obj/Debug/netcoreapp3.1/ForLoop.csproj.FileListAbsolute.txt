@@ -1,0 +1,13 @@
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.exe
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.deps.json
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.runtimeconfig.json
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.runtimeconfig.dev.json
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.dll
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.pdb
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.csprojAssemblyReference.cache
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.AssemblyInfoInputs.cache
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.AssemblyInfo.cs
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.dll
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.pdb
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.genruntimeconfig.cache
