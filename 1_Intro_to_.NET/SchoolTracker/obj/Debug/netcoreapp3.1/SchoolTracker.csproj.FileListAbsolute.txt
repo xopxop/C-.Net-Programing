@@ -1,0 +1,12 @@
+/Users/dthan/Desktop/C-.Net-Programing/1_Intro_to_.NET/SchoolTracker/bin/Debug/netcoreapp3.1/SchoolTracker.deps.json
+/Users/dthan/Desktop/C-.Net-Programing/1_Intro_to_.NET/SchoolTracker/bin/Debug/netcoreapp3.1/SchoolTracker.runtimeconfig.json
+/Users/dthan/Desktop/C-.Net-Programing/1_Intro_to_.NET/SchoolTracker/bin/Debug/netcoreapp3.1/SchoolTracker.runtimeconfig.dev.json
+/Users/dthan/Desktop/C-.Net-Programing/1_Intro_to_.NET/SchoolTracker/bin/Debug/netcoreapp3.1/SchoolTracker.dll
+/Users/dthan/Desktop/C-.Net-Programing/1_Intro_to_.NET/SchoolTracker/bin/Debug/netcoreapp3.1/SchoolTracker.pdb
+/Users/dthan/Desktop/C-.Net-Programing/1_Intro_to_.NET/SchoolTracker/obj/Debug/netcoreapp3.1/SchoolTracker.csprojAssemblyReference.cache
+/Users/dthan/Desktop/C-.Net-Programing/1_Intro_to_.NET/SchoolTracker/obj/Debug/netcoreapp3.1/SchoolTracker.AssemblyInfoInputs.cache
+/Users/dthan/Desktop/C-.Net-Programing/1_Intro_to_.NET/SchoolTracker/obj/Debug/netcoreapp3.1/SchoolTracker.AssemblyInfo.cs
+/Users/dthan/Desktop/C-.Net-Programing/1_Intro_to_.NET/SchoolTracker/obj/Debug/netcoreapp3.1/SchoolTracker.csproj.CoreCompileInputs.cache
+/Users/dthan/Desktop/C-.Net-Programing/1_Intro_to_.NET/SchoolTracker/obj/Debug/netcoreapp3.1/SchoolTracker.dll
+/Users/dthan/Desktop/C-.Net-Programing/1_Intro_to_.NET/SchoolTracker/obj/Debug/netcoreapp3.1/SchoolTracker.pdb
+/Users/dthan/Desktop/C-.Net-Programing/1_Intro_to_.NET/SchoolTracker/obj/Debug/netcoreapp3.1/SchoolTracker.genruntimeconfig.cache

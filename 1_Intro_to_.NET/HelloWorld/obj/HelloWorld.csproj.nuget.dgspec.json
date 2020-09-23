@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xopxo\\Programing\\C-.Net-Programing\\1_Intro_to_.NET\\HelloWorld\\HelloWorld.csproj": {}
+    "/Users/dthan/Desktop/C-.Net-Programing/1_Intro_to_.NET/HelloWorld/HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xopxo\\Programing\\C-.Net-Programing\\1_Intro_to_.NET\\HelloWorld\\HelloWorld.csproj": {
+    "/Users/dthan/Desktop/C-.Net-Programing/1_Intro_to_.NET/HelloWorld/HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xopxo\\Programing\\C-.Net-Programing\\1_Intro_to_.NET\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "/Users/dthan/Desktop/C-.Net-Programing/1_Intro_to_.NET/HelloWorld/HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\xopxo\\Programing\\C-.Net-Programing\\1_Intro_to_.NET\\HelloWorld\\HelloWorld.csproj",
-        "packagesPath": "C:\\Users\\xopxo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xopxo\\Programing\\C-.Net-Programing\\1_Intro_to_.NET\\HelloWorld\\obj\\",
+        "projectPath": "/Users/dthan/Desktop/C-.Net-Programing/1_Intro_to_.NET/HelloWorld/HelloWorld.csproj",
+        "packagesPath": "/Users/dthan/.nuget/packages/",
+        "outputPath": "/Users/dthan/Desktop/C-.Net-Programing/1_Intro_to_.NET/HelloWorld/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\xopxo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/dthan/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -50,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
         }
       }
     }

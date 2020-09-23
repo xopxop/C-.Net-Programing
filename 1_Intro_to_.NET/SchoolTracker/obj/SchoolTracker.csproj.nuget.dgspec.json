@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dthan/Desktop/C-.Net-Programing/1_Intro_to_.NET/SchoolTracker/SchoolTracker.csproj": {}
+  },
+  "projects": {
+    "/Users/dthan/Desktop/C-.Net-Programing/1_Intro_to_.NET/SchoolTracker/SchoolTracker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dthan/Desktop/C-.Net-Programing/1_Intro_to_.NET/SchoolTracker/SchoolTracker.csproj",
+        "projectName": "SchoolTracker",
+        "projectPath": "/Users/dthan/Desktop/C-.Net-Programing/1_Intro_to_.NET/SchoolTracker/SchoolTracker.csproj",
+        "packagesPath": "/Users/dthan/.nuget/packages/",
+        "outputPath": "/Users/dthan/Desktop/C-.Net-Programing/1_Intro_to_.NET/SchoolTracker/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dthan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
