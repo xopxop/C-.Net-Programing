@@ -1,0 +1,13 @@
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.csprojAssemblyReference.cache
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.AssemblyInfoInputs.cache
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.AssemblyInfo.cs
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.csproj.CoreCompileInputs.cache
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\StudentManager\bin\Debug\netcoreapp3.1\StudentManager.exe
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\StudentManager\bin\Debug\netcoreapp3.1\StudentManager.deps.json
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\StudentManager\bin\Debug\netcoreapp3.1\StudentManager.runtimeconfig.json
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\StudentManager\bin\Debug\netcoreapp3.1\StudentManager.runtimeconfig.dev.json
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\StudentManager\bin\Debug\netcoreapp3.1\StudentManager.dll
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\StudentManager\bin\Debug\netcoreapp3.1\StudentManager.pdb
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.dll
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.pdb
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.genruntimeconfig.cache

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dthan/Desktop/C-.Net-Programing/1_Intro_to_.NET/Challenge_1/Challenge_1.csproj": {}
+    "C:\\Users\\xopxo\\Programing\\C-.Net-Programing\\1_Intro_to_.NET\\Challenge_1\\Challenge_1.csproj": {}
   },
   "projects": {
-    "/Users/dthan/Desktop/C-.Net-Programing/1_Intro_to_.NET/Challenge_1/Challenge_1.csproj": {
+    "C:\\Users\\xopxo\\Programing\\C-.Net-Programing\\1_Intro_to_.NET\\Challenge_1\\Challenge_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dthan/Desktop/C-.Net-Programing/1_Intro_to_.NET/Challenge_1/Challenge_1.csproj",
+        "projectUniqueName": "C:\\Users\\xopxo\\Programing\\C-.Net-Programing\\1_Intro_to_.NET\\Challenge_1\\Challenge_1.csproj",
         "projectName": "Challenge_1",
-        "projectPath": "/Users/dthan/Desktop/C-.Net-Programing/1_Intro_to_.NET/Challenge_1/Challenge_1.csproj",
-        "packagesPath": "/Users/dthan/.nuget/packages/",
-        "outputPath": "/Users/dthan/Desktop/C-.Net-Programing/1_Intro_to_.NET/Challenge_1/obj/",
+        "projectPath": "C:\\Users\\xopxo\\Programing\\C-.Net-Programing\\1_Intro_to_.NET\\Challenge_1\\Challenge_1.csproj",
+        "packagesPath": "C:\\Users\\xopxo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xopxo\\Programing\\C-.Net-Programing\\1_Intro_to_.NET\\Challenge_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/dthan/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\xopxo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -50,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

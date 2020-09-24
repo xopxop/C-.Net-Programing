@@ -1,0 +1,13 @@
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\jobCandidates\obj\Debug\netcoreapp3.1\jobCandidates.csprojAssemblyReference.cache
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\jobCandidates\obj\Debug\netcoreapp3.1\jobCandidates.AssemblyInfoInputs.cache
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\jobCandidates\obj\Debug\netcoreapp3.1\jobCandidates.AssemblyInfo.cs
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\jobCandidates\obj\Debug\netcoreapp3.1\jobCandidates.csproj.CoreCompileInputs.cache
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\jobCandidates\bin\Debug\netcoreapp3.1\jobCandidates.exe
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\jobCandidates\bin\Debug\netcoreapp3.1\jobCandidates.deps.json
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\jobCandidates\bin\Debug\netcoreapp3.1\jobCandidates.runtimeconfig.json
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\jobCandidates\bin\Debug\netcoreapp3.1\jobCandidates.runtimeconfig.dev.json
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\jobCandidates\bin\Debug\netcoreapp3.1\jobCandidates.dll
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\jobCandidates\bin\Debug\netcoreapp3.1\jobCandidates.pdb
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\jobCandidates\obj\Debug\netcoreapp3.1\jobCandidates.dll
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\jobCandidates\obj\Debug\netcoreapp3.1\jobCandidates.pdb
+C:\Users\xopxo\Programing\C-.Net-Programing\1_Intro_to_.NET\jobCandidates\obj\Debug\netcoreapp3.1\jobCandidates.genruntimeconfig.cache
